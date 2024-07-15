@@ -1,0 +1,9 @@
+hour_hand_length = 74
+hour_hand_color = #c188be
+minute_hand_length = 97
+minute_hand_color = #5ec7b0
+second_hand_length = 120
+second_hand_color = #dcdcad
+time_color = #a1dbfc
+time_bg_color = #252526
+clock_dir = .\clock.jpg
